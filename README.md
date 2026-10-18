@@ -7,19 +7,19 @@
 - [COMP1238 Useful info](comp1238.md)
 
 ## Semester 1 Schedule
-- Monday
+- **Monday**
   - [12:00 PM - 02:00 PM] COMP1151: IT Essentials
   - [02:00 PM - 04:00 PM] COMP1236: Fundamentals of Computing Logic
   - [04:00 PM - 06:00 PM] COMP1238: Introduction to Data Management 
-- Tuesday
+- **Tuesday**
   - [10:00 AM - 12:00 PM] COMP1236: Fundamentals of Computing Logic
   - [12:00 PM - 02:00 PM] MATH1126: Math for Computer Technology I
   - [06:00 PM - 08:00 PM] COMP1234: Introduction to Web Development
-- Wednesday
-  - No classes
-- Thursday
+- **Wednesday**
+  - No classes (˵ •̀ ᴗ •́ ˵ ) ✧ 
+- **Thursday**
   - [10:00 AM - 12:00 PM] COMP1234: Introduction to Web Development
   - [12:00 PM - 02:00 PM] COMP1151: IT Essentials
   - [04:00 PM - 05:00 PM] COMP1238: Introduction to Data Management 
-- Friday
+- **Friday**
   - [10:00 AM - 12:00 PM] MATH1126: Math for Computer Technology I
