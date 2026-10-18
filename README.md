@@ -8,7 +8,7 @@
 
 ## Semester 1 Schedule
 - Monday
-  - 12:00 - COMP1151: IT Essentials
+  - [12:00 - 2:00] - COMP1151: IT Essentials
   - 2:00 - COMP1236: Fundamentals of Computing Logic
   - 4:00 - COMP1238: Introduction to Data Management 
 - Tuesday
@@ -22,4 +22,4 @@
   - 12:00 - COMP1151: IT Essentials
   - 4:00 - COMP1238: Introduction to Data Management 
 - Friday
-  - MATH1126: Math for Computer Technology I
+  - 10:00 - MATH1126: Math for Computer Technology I
